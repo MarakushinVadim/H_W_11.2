@@ -2,3 +2,4 @@ venv
 /debug.log
 *.pyc
 *.log
+.idea
